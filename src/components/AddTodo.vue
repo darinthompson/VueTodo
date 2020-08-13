@@ -35,7 +35,7 @@ export default {
 
 <style scoped>
     .btn {
-        background-color: #666;
+        background-color: #333;
         color: white;
         padding: 7px;
     }
